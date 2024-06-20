@@ -1,0 +1,10 @@
+
+path: /home/venom/repo/cardiac-yolo/out/
+train: train/images
+val: val/images
+
+
+names:
+  0: zero
+  1: one
+  2: two
